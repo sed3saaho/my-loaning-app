@@ -1,0 +1,12 @@
+# Runtime & dependencies
+.node_runtime/
+node_modules/
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Database locks/WAL files
+backend/data/*.db-shm
+backend/data/*.db-wal
