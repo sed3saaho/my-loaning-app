@@ -41,7 +41,7 @@ export const LoginPage = () => {
           <div className="w-12 h-12 rounded-2xl bg-gradient-to-tr from-emerald-600 to-teal-400 mx-auto flex items-center justify-center font-extrabold text-white shadow-lg text-2xl">
             K
           </div>
-          <h1 className="text-xl font-bold text-white tracking-tight">Keith Capital LMS</h1>
+          <h1 className="text-xl font-bold text-white tracking-tight">Sedly Keith Capital LMS</h1>
           <p className="text-xs text-slate-400">Loan Management System • Administrator Access</p>
         </div>
 
